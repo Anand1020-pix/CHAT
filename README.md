@@ -8,9 +8,9 @@ Chat is an experimental, in-development chat application demonstrating a local/e
 
 ## Key Features
 
-* ** Custom Fine-Tuned AI Model**: The core of the chat experience is powered by a custom-trained model.
-* ** Persistent Chat History**: Conversations are stored locally, allowing you to pick up where you left off.
-* ** Real-Time Messaging**: Uses WebSockets for a low-latency, real-time communication experience.
+* **Custom Fine-Tuned AI Model**: The core of the chat experience is powered by a custom-trained model.
+* **Persistent Chat History**: Conversations are stored locally, allowing you to pick up where you left off.
+* **Real-Time Messaging**: Uses WebSockets for a low-latency, real-time communication experience.
 
 ***
 
@@ -18,4 +18,4 @@ Chat is an experimental, in-development chat application demonstrating a local/e
 
 Click the image below to watch a short video demonstrating the application in action.
 
-[![Chat Application Demo]](poc.mp4)
+[![Chat Application Demo](thumbnail.png)](poc.mp4)
