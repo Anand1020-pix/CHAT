@@ -18,4 +18,4 @@ Chat is an experimental, in-development chat application demonstrating a local/e
 
 Click the image below to watch a short video demonstrating the application in action.
 
-[![Chat Application Demo](thumbnail.png)](poc.mp4)
+[![Chat Application Demo](thumbnail.png)](poc.gif)
